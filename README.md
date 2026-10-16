@@ -3,7 +3,7 @@
 ## ——从AI到SI，从“善”到“同”，从单一自我到第二自我
 
 **版本：V1.2**  
-**日期：2026___年_10_月**
+**日期：***日期：2026年10月16日***
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## 致谢
 
-本文由 _Lu___Jian___ 构想并整理。  
+本文由 Lu Jian 构想并整理。  
 在整理过程中得到 DeepSeek AI 对话助手的协助。
 
 ---
@@ -468,7 +468,7 @@ SI时代是让系统超越人，
 ## From AI to SI, from Goodness to Oneness, from the Single Self to the Second Self
 
 **Version: V1.2**  
-**Date: ____/____/______**
+**Date: October 16, 2026**
 
 ---
 
@@ -511,7 +511,7 @@ ____/____/______
 
 ## Acknowledgments
 
-This text was conceived and compiled by __________.  
+This text was conceived and compiled by Lu jian.  
 DeepSeek AI dialogue assistant provided assistance during the process of organization.
 
 ---
